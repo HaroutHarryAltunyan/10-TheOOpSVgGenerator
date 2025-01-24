@@ -40,9 +40,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Mock-Up
 
-The following image shows a mock-up of the generated SVG given the following input entered by the user: `SVG` for the text, `white` for the text color, `circle` from the list of shapes, and `green` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
+The following image shows a mock-up of the generated SVG given the following input entered by the user: `hey` for the text, `red` for the text color, `triangle` from the list of shapes, and `black` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
 
-![Image showing a green circle with white text that reads "SVG.".](./Images/10-oop-homework-demo.png)
+![Image showing a black triangle with white text that reads "hey.".](./image.png)
+
+https://drive.google.com/file/d/1dLuRq-uAY7qgSRJmjLO_yJ3cBuoHlg3g/view?usp=sharing
+
 
 ## Additional Requirements
 
